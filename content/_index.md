@@ -30,6 +30,8 @@ sections:
     design:
       columns: '2'
       view: citation
+
+    
   - block: collection
     content:
       title: Conference Publications
@@ -40,6 +42,8 @@ sections:
     design:
       columns: '2'
       view: citation
+
+    
   - block: collection
     content:
       title: Workshop Papers (Not in Proceedings)
@@ -50,6 +54,8 @@ sections:
     design:
       columns: '2'
       view: citation
+
+    
   - block: collection
     id: posts
     content:
