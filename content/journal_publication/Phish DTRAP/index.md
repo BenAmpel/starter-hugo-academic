@@ -4,9 +4,7 @@ authors:
 - Yang Gao
 - admin
 - Sagar Samtani
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2023-09-01T00:00:00Z"
 doi: "10.1145/3603507"
 

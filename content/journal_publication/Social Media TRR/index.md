@@ -3,9 +3,7 @@ title: "Why Following Friends Can Hurt You: A Replication Study"
 authors:
 - admin
 - Steven Ullman
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2023-12-01T00:00:00Z"
 doi: ""
 
