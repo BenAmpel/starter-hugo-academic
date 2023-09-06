@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Why Following Friends Can Hurt You: A Replication Study"
 authors:
 - admin
 - Steven Ullman
