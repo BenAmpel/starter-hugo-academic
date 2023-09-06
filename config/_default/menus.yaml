@@ -7,21 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Journal Publications
-    url: '#journal_publications'
+  - name: Research Interests
+    url: '#research_interests'
     weight: 20
-  - name: Posts
-    url: '#posts'
+  - name: Publications
+    url: '#journal_publications'
     weight: 30
-  - name: Projects
-    url: '#projects'
+  - name: Teaching
+    url: '#teaching'
     weight: 40
-  - name: Talks
+  - name: Invited Talks
     url: '#talks'
     weight: 50
+  #- name: Posts
+  #  url: '#posts'
+  #  weight: 30
+  #- name: Projects
+  #  url: '#projects'
+  #  weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/cv.pdf
+    weight: 60
