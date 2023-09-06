@@ -74,5 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Benjamin M. Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. Ben received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019. From 2018 – 2021, Ben served as a National Science Foundation (NSF) Scholarship-for-Service (SFS) Fellow.
+
+Ben’s research focuses on data mining techniques for creating proactive Cyber Threat Intelligence (CTI). Ben has published several conference papers and journal papers on these topics in leading venues such as MIS Quarterly, International Conference on Information Systems (ICIS), AI for Cybersecurity topics at ACM KDD, and IEEE ISI. Ben has received recognition for his work, including Best Paper Award at IEEE ISI 2020.
 {style="text-align: justify;"}
