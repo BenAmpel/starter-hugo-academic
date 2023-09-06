@@ -19,6 +19,9 @@ main:
   - name: Invited Talks
     url: '#talks'
     weight: 50
+  - name: Awards
+    url: '#awards'
+    weight: 50
   #- name: Posts
   #  url: '#posts'
   #  weight: 30
