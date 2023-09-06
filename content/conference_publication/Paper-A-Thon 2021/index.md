@@ -1,16 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'The Role of AI Agents for De-Escalating Commitment in Digital Innovation Projects'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Carolin Marx
   - admin
-  - Mark Patton
-  - Hsinchun Chen
+  - Ben Lazarine
 
-date: '2013-07-01T00:00:00Z'
-doi: '10.1109/ISI.2019.8823238'
+date: '2021-12-01T00:00:00Z'
+# doi: '10.1109/ISI.2019.8823238'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,16 +22,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2019 IEEE International Conference on Intelligence and Security Informatics (ISI)*
-publication_short: In *IEEE ISI*
+publication: In *International Conference on Information Systems*
+publication_short: In *ICIS 2021*
 
-abstract: With the rapid development of blockchain platforms, it is important that different implementations are tested and analyzed for comparative purposes. One such implementation is Hyperledger Sawtooth, a new member of the Hyperledger family. Sawtooth blockchain is a permissioned implementation developed in part by Intel. While research has been done on Hyperledger Fabric, research on Sawtooth is not well documented. Using the Hyperledger Caliper benchmarking tool, we aim to test the performance of the blockchain and identify potential issues.
+abstract: The increasing complexity of managerial decision-making for digital innovation activities accelerates cognitive biases like escalation of commitment (EoC). Decision aids (e.g., AI agents) can assist managers in avoiding EoC scenarios. However, how AI-based decision aids affect EoC in this context remains a critical yet understudied topic. To address this gap, we develop a theoretical model and propose a randomized controlled post-test vignette experiment with a fictive decision-making simulation to study the de-escalating effect of an AI-based decision aid in the digital innovation context. Our model accounts for moderating (AI familiarity, personality traits) and mediating (decision aid reliance) factors. By entangling the de-escalating effect of AI agent decision aid in decision-making scenarios about digital innovation projects we contribute to the digital innovation, AI agent, and the EoC literature. The future implementation of the proposed research design lays the foundation for designing AI agent decision support systems that de-bias managerial decision-making.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Blockchain
-- Benchmarking
+- Behavioral
 featured: false
 
 # Custom links (uncomment lines below)
@@ -39,7 +38,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://par.nsf.gov/servlets/purl/10172683'
+url_pdf: 'https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1375&context=icis2021'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''

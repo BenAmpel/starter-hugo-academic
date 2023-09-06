@@ -17,7 +17,7 @@ sections:
     content:
       title: Research Interests
     design:
-      columns: '2'
+      columns: '1'
   
   - block: collection
     id: journal_publications
@@ -34,7 +34,7 @@ sections:
     
   - block: collection
     content:
-      title: Conference Publications
+      title: Refereed Conference Proceedings
       filters:
         folders:
           - conference_publication
@@ -46,7 +46,7 @@ sections:
     
   - block: collection
     content:
-      title: Workshop Papers (Not in Proceedings)
+      title: Refereed Workshop Papers (No Proceedings)
       filters:
         folders:
           - workshop_publication
