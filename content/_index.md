@@ -37,7 +37,7 @@ sections:
       title: Conference Publications
       filters:
         folders:
-          - - publication/conference-paper
+          - publication/conference-paper
         exclude_featured: false
     design:
       columns: '2'
@@ -49,7 +49,7 @@ sections:
       title: Workshop Papers (Not in Proceedings)
       filters:
         folders:
-          - - publication/preprint
+          - publication/preprint
         exclude_featured: false
     design:
       columns: '2'
