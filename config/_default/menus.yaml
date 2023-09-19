@@ -13,15 +13,18 @@ main:
   - name: Publications
     url: '#journal_publications'
     weight: 30
+  - name: Research Projects
+    url: '#projects'
+    weight: 40
   - name: Teaching
     url: '#teaching'
-    weight: 40
+    weight: 50
   - name: Invited Talks
     url: '#talks'
-    weight: 50
+    weight: 60
   - name: Awards
     url: '#awards'
-    weight: 60
+    weight: 70
   - name: CV
     url: uploads/cv.pdf
-    weight: 70
+    weight: 80
