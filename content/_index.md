@@ -57,9 +57,9 @@ sections:
 
     
   - block: collection
-    id: posts
+    id: teaching
     content:
-      title: Recent Posts
+      title: Teaching
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
