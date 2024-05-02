@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MIS Quarterly*, 2024"
+publication: "*MIS Quarterly*, 48:1, 137-166"
 publication_short: ""
 
 abstract: The rapid proliferation of complex information systems has been met by an ever-increasing quantity of exploits that can cause irreparable cyber breaches. To mitigate these cyber threats, academia and industry have placed a significant focus on proactively identifying and labeling exploits developed by the international hacker community. However, prevailing approaches for labeling exploits in hacker forums do not leverage metadata from exploit DarkNet Markets, or public exploit repositories to enhance labeling performance. In this study, we adopted the computational design science paradigm to develop a novel information technology artifact, the Deep Transfer Learning Exploit Labeler (DTL-EL). DTL-EL incorporates a pre-initialization design, multi-layer deep transfer learning (DTL), and a self-attention mechanism to automatically label exploits in hacker forums. We rigorously evaluated the proposed DTL-EL against state-of-the-art non-DTL benchmark methods based in classical machine learning and deep learning. Results suggest that the proposed DTL-EL significantly outperforms benchmark methods based on accuracy, precision, recall, and F1-score. Our proposed DTL-EL framework provides important practical implications for key stakeholders such as cybersecurity managers, analysts, and educators.
