@@ -6,7 +6,7 @@ authors:
 - Hongyi Zhu
 - Hsinchun Chen
 
-date: "2019-08-01T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: "10.25300/MISQ/2023/17316"
 
 # Schedule page publish date (NOT publication's date).
