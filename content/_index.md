@@ -120,7 +120,6 @@ sections:
     design:
       columns: '2'
 
-
   - block: collection
   id: talks
   content:
