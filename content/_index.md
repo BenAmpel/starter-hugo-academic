@@ -119,6 +119,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+      view: citation
 
   - block: collection
   id: talks
