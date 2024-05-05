@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Management Information Systems Ph.D. Student
+role: Assistant Professor in Computer Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Benjamin M. Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. Ben received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019. From 2018 – 2021, Ben served as a National Science Foundation (NSF) Scholarship-for-Service (SFS) Fellow.
+Benjamin M. Ampel is a Assistant Professor in Computer Information Systems at Georgia State University. Ben received his Ph.D. from the University of Arizona (UArizona) under Dr. Hsinchen Chen. Ben also received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019. From 2018 – 2021, Ben served as a National Science Foundation (NSF) Scholarship-for-Service (SFS) Fellow.
 
-Ben’s research focuses on data mining techniques for creating proactive Cyber Threat Intelligence (CTI). Ben has published several journal and conference papers on these topics in leading venues such as MIS Quarterly, Journal of Management Information Systems (JMIS), International Conference on Information Systems (ICIS), AI for Cybersecurity topics at ACM KDD, and IEEE ISI. Ben has received recognition for his work, including Best Paper Award at IEEE ISI 2020 and IEEE ISI 2023.
+Ben’s research focuses on data mining techniques for creating proactive Cyber Threat Intelligence (CTI). Ben has published several journal and conference papers on these topics in leading venues such as MIS Quarterly, Journal of Management Information Systems (JMIS), International Conference on Information Systems (ICIS), AI for Cybersecurity topics at ACM KDD, and IEEE ISI. Ben has received recognition for his work, including the Best Paper Award at IEEE ISI 2020 and IEEE ISI 2023.
 {style="text-align: justify;"}
