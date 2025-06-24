@@ -19,7 +19,7 @@ role: Assistant Professor in Computer Information Systems
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Georgia State University
-    url: [https://robinson.gsu.edu/profile/benjamin-ampel/](https://robinson.gsu.edu/profile/benjamin-ampel/)
+    url: https://robinson.gsu.edu/profile/benjamin-ampel/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence for Cybersecurity applications within the field of Information Systems
