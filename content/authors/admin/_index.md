@@ -18,8 +18,8 @@ role: Assistant Professor in Computer Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Arizona
-    url: https://eller.arizona.edu/people/benjamin-ampel
+  - name: Georgia State University
+    url: [https://robinson.gsu.edu/profile/benjamin-ampel/](https://robinson.gsu.edu/profile/benjamin-ampel/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence for Cybersecurity applications within the field of Information Systems
@@ -32,16 +32,15 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD Student in Management Information Systems
-      institution: University of Arizona
-      year: 2024
-    - course: M.S. in Management Information Systems
-      institution: University of Arizona
-      year: 2019
-    - course: B.S. in Management Information Systems
-      institution: University of Arizona
-      year: 2017
+  - degree: Ph.D., Management Information Systems (ACM SIGMIS Dissertation Award Winner)
+    institution: University of Arizona
+    year: 2024
+  - degree: M.S., Management Information Systems
+    institution: University of Arizona
+    year: 2019
+  - degree: B.S.B.A., Management Information Systems
+    institution: University of Arizona
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
