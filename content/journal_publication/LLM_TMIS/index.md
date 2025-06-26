@@ -46,7 +46,6 @@ url_pdf: https://dl.acm.org/doi/10.1145/3682069
 # url_slides: ''
 # url_source: ''
 # url_video: ''
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
