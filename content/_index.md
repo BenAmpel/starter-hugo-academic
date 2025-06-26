@@ -1,47 +1,31 @@
 ---
-# Leave title blank if you prefer the site title in <title> tag
 title: "Benjamin Ampel"
 date: 2022-10-24
-type: landing         # tells Wowchemy this is a landing page bundle
+type: landing        # <-- keep
 
-# ↓  The homepage is now configured with a single `blocks:` array
 blocks:
 
-  - block: about.biography          # Biography/portrait section
+  # ---------- HERO ----------
+  - block: hero
+    id: hero
+    content:
+      title: "Benjamin Ampel"
+      subtitle: "Assistant Professor of Computer Information Systems, Georgia State University"
+      image:
+        filename: avatar.jpg      # put a square headshot in `assets/media/`
+        focal_point: smart
+        alt: "Benjamin Ampel"
+
+  # ---------- ABOUT / BIOGRAPHY ----------
+  - block: about
     id: about
     biography: true
-    # Adding the param *outside* `content:` stops the .courses panic
-    courses: []           # ← leave empty or populate with course objects
+    courses: []                   # required, leave empty or list courses
     content:
-      title: Biography             # Heading shown on the page
-      username: admin              # Folder name in `content/authors/`
-
-  - block: tag_cloud      # Research Interests tag cloud
-    id: research_interests
-    content:
-      title: Research Interests
-    design:
-      columns: 1          # numbers, not quoted strings
-
-  - block: collection     # Journal articles
-    id: journal_publications
-    content:
-      title: Journal Publications
-      filters:
-        folders: [journal_publication]
-        exclude_featured: false
-    design:
-      columns: 2
-      view: citation
-
-  - block: collection     # Conference proceedings
-    id: conference_publications
-    content:
-      title: Refereed Conference Proceedings
-      filters:
-        folders: [conference_publication]
-        exclude_featured: false
-    design:
-      columns: 2
-      view: citation
+      title: Biography
+      username: admin             # folder name under content/authors/
+      body: |
+        I build AI systems that mine hacker forums, phishing emails, and
+        other adversary artefacts to improve cyber-threat intelligence.
 ---
+
