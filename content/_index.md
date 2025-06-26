@@ -7,7 +7,7 @@ type: landing         # tells Wowchemy this is a landing page bundle
 # ↓  The homepage is now configured with a single `blocks:` array
 blocks:
 
-  - block: about          # Biography/portrait section
+  - block: about.biography          # Biography/portrait section
     id: about
     biography: true
     # Adding the param *outside* `content:` stops the .courses panic
