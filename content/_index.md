@@ -5,8 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: biography
-    id: biography
+  - block: about
+    id: about
     
     content:
       title: Biography
