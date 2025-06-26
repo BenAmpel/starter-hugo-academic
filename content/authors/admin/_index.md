@@ -21,6 +21,14 @@ organizations:
   - name: Georgia State University
     url: https://robinson.gsu.edu/profile/benjamin-ampel/
 
+courses:
+  - course: "CIS 8684 – Cyber Threat Intelligence"
+    institution: "Georgia State University"
+    year: 2025
+  - course: "CIS 4680 – Intro to Security"
+    institution: "Georgia State University"
+    year: 2025
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence for Cybersecurity applications within the field of Information Systems
 
