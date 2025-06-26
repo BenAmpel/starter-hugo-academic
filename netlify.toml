@@ -1,10 +1,11 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  command  = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  publish  = "public"
 
-[build.environment]
-  HUGO_VERSION = "0.111.3"
-  HUGO_ENABLEGITINFO = "true"
+  [build.environment]              # <-- indentation is critical
+    HUGO_VERSION       = "0.122.0" # last Wowchemy-safe release
+    HUGO_ENV           = "production"
+    HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
