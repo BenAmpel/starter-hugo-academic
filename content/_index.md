@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: biography
     id: about
     
     content:
@@ -14,7 +14,6 @@ sections:
       username: admin
       courses:[]
 
-  
   - block: tag_cloud
     id: research_interests
     content:
