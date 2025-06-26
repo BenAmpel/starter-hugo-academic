@@ -10,7 +10,6 @@ publication: "ACM Transactions on Management Information Systems"
 publication_types: ["2"]   # 2 = journal in Wowchemy/Hugo Blox
 doi: "10.1145/xxxxxxx"
 draft: false
----
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -55,3 +54,4 @@ url_pdf: https://dl.acm.org/doi/10.1145/3682069
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 # projects: []
+---
